@@ -1,0 +1,58 @@
+! Arcbox
+! https://github.com/gcavallo/arcbox/
+
+! Copyright (c) 2015, Gabriel Cavallo
+! BSD 3-Clause License http://opensource.org/licenses/BSD-3-Clause
+
+!! Window title
+window.label.text.justify: left
+window.active.label.bg: parentrelative
+window.active.label.text.color: #c3c9d9
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #646b80
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #2f343f
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #404552
+
+!! Window buttons
+window.*.button.*.bg: parentrelative
+window.active.button.*.image.color: #c3c9d9
+window.inactive.button.*.image.color: #646b80
+
+window.active.button.disabled.image.color: #404552
+window.inactive.button.disabled.image.color: #2f343f
+
+!! Window borders
+window.active.border.color: #2f343f
+window.inactive.border.color: #404552
+window.inactive.title.separator.color: #404552
+border.width: 3
+padding.width: 2
+window.handle.width: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+
+!! Root menu
+menu.title.bg: flat solid
+menu.title.bg.color: #2f343f
+menu.title.text.color: #c3c9d9
+menu.title.text.justify: center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #383c4a
+menu.items.text.color: #c3c9d9
+menu.items.justify: left
+menu.items.disabled.text.color: #646b80
+menu.items.font:shadow=y:shadowtint=20
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #404552
+menu.items.active.text.color: #c3c9d9
+
+menu.overlap.x: -7
+
+!! OSD
+osd.bg: flat solid
+osd.bg.color: #404552
