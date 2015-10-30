@@ -7,3 +7,8 @@ Install
 -------
 
 	git clone https://github.com/gcavallo/Arcbox.git ~/.themes/Arcbox
+
+Screenshot
+----------
+
+![screenshot]("preview.png")
