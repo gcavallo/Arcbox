@@ -11,4 +11,4 @@ Install
 Screenshot
 ----------
 
-![screenshot]("preview.png")
+![screenshot](preview.png)
