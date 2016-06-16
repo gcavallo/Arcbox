@@ -18,8 +18,9 @@ window.inactive.title.bg.color: #404552
 
 !! Window buttons
 window.*.button.*.bg: parentrelative
-window.active.button.*.image.color: #c3c9d9
-window.inactive.button.*.image.color: #646b80
+window.active.button.unpressed.image.color: #c3c9d9
+window.inactive.button.unpressed.image.color: #646b80
+window.*.button.hover.image.color: #cc575d
 
 window.active.button.disabled.image.color: #404552
 window.inactive.button.disabled.image.color: #2f343f
