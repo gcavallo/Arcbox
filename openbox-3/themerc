@@ -49,8 +49,8 @@ menu.items.disabled.text.color: #646b80
 menu.items.font:shadow=y:shadowtint=20
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #404552
-menu.items.active.text.color: #c3c9d9
+menu.items.active.bg.color: #5294e2
+menu.items.active.text.color: #ffffff
 
 menu.overlap.x: -7
 
